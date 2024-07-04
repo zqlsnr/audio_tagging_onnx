@@ -1,2 +1,2 @@
 # audio_tagging_onnx
-audio tagging onnx model
+Easy to use Audio Tagging in Onnx
